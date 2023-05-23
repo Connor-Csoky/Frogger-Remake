@@ -124,7 +124,7 @@ $(document).ready(function() {
                         }
                         goal1 = true;
                         frogInners = frog1.detach();
-                        let image = $(`<img src='${"../images/frogger.png"}'>`);
+                        let image = $(`<img src='${"images/frogger.png"}'>`);
                         image.addClass("frogTemp");
                         image.appendTo("." + current);
                         current = "m7"
@@ -142,7 +142,7 @@ $(document).ready(function() {
                         }
                         goal2 = true;
                         frogInners = frog1.detach();
-                        let image = $(`<img src='${"../images/frogger.png"}'>`);
+                        let image = $(`<img src='${"images/frogger.png"}'>`);
                         image.addClass("frogTemp");
                         image.appendTo("." + current);
                         current = "m7"
@@ -160,7 +160,7 @@ $(document).ready(function() {
                         }
                         goal3 = true;
                         frogInners = frog1.detach();
-                        let image = $(`<img src='${"../images/frogger.png"}'>`);
+                        let image = $(`<img src='${"images/frogger.png"}'>`);
                         image.addClass("frogTemp");
                         image.appendTo("." + current);
                         current = "m7"
@@ -178,7 +178,7 @@ $(document).ready(function() {
                         }
                         goal4 = true;
                         frogInners = frog1.detach();
-                        let image = $(`<img src='${"../images/frogger.png"}'>`);
+                        let image = $(`<img src='${"images/frogger.png"}'>`);
                         image.addClass("frogTemp");
                         image.appendTo("." + current);
                         current = "m7"
@@ -197,7 +197,7 @@ $(document).ready(function() {
                         }
                         goal5 = true;
                         frogInners = frog1.detach();
-                        let image = $(`<img src='${"../images/frogger.png"}'>`);
+                        let image = $(`<img src='${"images/frogger.png"}'>`);
                         image.addClass("frogTemp");
                         image.appendTo("." + current);
                         current = "m7"
